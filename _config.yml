@@ -28,8 +28,7 @@ twitter_username: nerd386
 github_username:  TheNerd
 
 # Build settings
-remote_theme: daattali/beautiful-jekyll@6.0.1
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 #  - jekyll-remote-theme
