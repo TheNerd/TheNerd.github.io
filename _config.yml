@@ -28,9 +28,16 @@ twitter_username: nerd386
 github_username:  TheNerd
 
 # Build settings
-theme: minima
+remote_theme: daattali/beautiful-jekyll@6.0.1
+# theme: minima
 plugins:
   - jekyll-feed
+#  - jekyll-remote-theme
+
+#readme_index:
+#  enabled:          true
+#  remove_originals: false
+#  with_frontmatter: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
